@@ -3,7 +3,9 @@
 
 include_once __DIR__ . "/info.php";
 
-
+"""
+hola
+"""
 function score($ip)
 {
     $scores = [
